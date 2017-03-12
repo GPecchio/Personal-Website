@@ -1,1 +1,1 @@
-# This is the website that shows my portfolio
+# Code of my portfolio website
